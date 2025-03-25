@@ -2,13 +2,13 @@
 
 Silk strands drawn using perlin noise.
 
-![[assets/silk1]]
-![[assets/silk2]]
-![[assets/silk3]]
-![[assets/silk4]]
-![[assets/silk5]]
-![[assets/silk6]]
-![[assets/silk7]]
-![[assets/silk8]]
-![[assets/silk9]]
-![[assets/silk10]]
+![Silk](assets/silk1)
+![Silk](assets/silk2)
+![Silk](assets/silk3)
+![Silk](assets/silk4)
+![Silk](assets/silk5)
+![Silk](assets/silk6)
+![Silk](assets/silk7)
+![Silk](assets/silk8)
+![Silk](assets/silk9)
+![Silk](assets/silk10)
